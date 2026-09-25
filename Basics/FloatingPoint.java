@@ -1,4 +1,4 @@
-package FloatingPoint;
+package Basics;
 public class FloatingPoint {
     public static void main(String[] args) {
         double number1 = 3.41;
